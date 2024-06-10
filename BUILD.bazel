@@ -1,0 +1,7 @@
+
+py_library(
+    name = "coablib_hello",
+    srcs = ["hello.py"],
+    visibility = ["//visibility:public"]
+)
+
